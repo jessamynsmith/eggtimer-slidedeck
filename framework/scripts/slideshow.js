@@ -334,11 +334,13 @@ _.prototype = {
 							}
 							break;
 						case 80: // P
-							// Open new window for attendee view
-							this.projector = open(location, 'projector');
+							if (this.presenter) {
+								// Open new window for attendee view
+								this.projector = open(location, 'projector');
 
-							// Get the focus back
-							window.focus();
+								// Get the focus back
+								window.focus();
+							}
 
 							// Switch this one to presenter view
 							body.classList.add('presenter');
