@@ -15,8 +15,8 @@ Compile css:
 
 View slides:
 
-    Open slides.html in the browser
+    Open index.html in the browser
     
 To see presenter notes:
 
-    With slides.html open in the browser, press Ctrl+P or Shift+P
+    With index.html open in the browser, press Ctrl+P or Shift+P
