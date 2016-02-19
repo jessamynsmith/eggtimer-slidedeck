@@ -1,9 +1,22 @@
-#Ladies Learning Code slide deck template
-
-This slide deck includes features such as incremental display of content, interactive CSS demos built into the slides, markdown integration and presenter notes. View **slides.html** or http://ladieslearningcode.github.io/llc-slidedeck-template/slides.html for details on usage.
+#Codementor: Mentoring for a Better World
+        
+This slide deck is based on the Ladies Learning Code slide deck, which includes features such as incremental display of content, interactive CSS demos built into the slides, markdown integration and presenter notes. Check out the original slide deck at http://ladieslearningcode.github.io/llc-slidedeck-template/slides.html for details.
 
 Created with <a href="https://github.com/LeaVerou/csss/sample-slideshow.html">Lea Verou's CSS-based SlideShow System</a> and <a href="http://lab.hakim.se/reveal-js/">reveal.js</a>. Syntax highlighting courtesy of http://highlightjs.org. Best viewed in Chrome or Firefox.
 
-If there are any issues or fixes required for this slide presentation, please open an issue, submit a pull request or email [christina@ladieslearningcode.com](mailto:christina@ladieslearningcode.com).
-
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+
+### Development
+
+Compile css:
+
+    sass --watch framework/sass/:framework/css/
+
+View slides:
+
+    Open slides.html in the browser
+    
+To see presenter notes:
+
+    With slides.html open in the browser, press Ctrl+P or Shift+P

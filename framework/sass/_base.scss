@@ -4,10 +4,10 @@
 
 // Colours
 //---------------
-$llc-pink:              #b109aa;
+$dark:                  #006886;
 $black:                 #000;
-$gray-dark:             #222;
-$gray:                  #444;
+$gray-dark:             #00293B;
+$gray:                  #073648;
 $gray-light:            #bdc3c7;
 $white:                 #fff;
 
@@ -15,13 +15,10 @@ $white:                 #fff;
 // Typography
 //---------------
 // Font families
-$quicksand:             'Quicksand', sans-serif;
-$pacifico:              'Pacifico', cursive;
-$open-sans:             'Open Sans', sans-serif;
-$monserrat:             'Montserrat', sans-serif;
-$heading-font:          $quicksand;
-$base-font:             $monserrat;
-$cursive:               $pacifico;
+$primary-font:          'Helvetica Neue', sans-serif;
+$secondary-font:        'Helvetica Neue', sans-serif;
+$heading-font:          $primary-font;
+$base-font:             $secondary-font;
 
 $font-size-base:        3.2rem;
 $font-size-sm:          $font-size-base * 0.9; // 90%
