@@ -1,4 +1,4 @@
-#eggtimer: a (self-)love story
+#eggtimer: a labor of love
         
 This slide deck is based on the Ladies Learning Code slide deck, which includes features such as incremental display of content, interactive CSS demos built into the slides, markdown integration and presenter notes. Check out the original slide deck at http://ladieslearningcode.github.io/llc-slidedeck-template/slides.html for details.
 
