@@ -42,6 +42,31 @@
 	line-height:1.6;*/
 }
 
+.slide ul {
+	float: left;
+}
+
+.slide.single ul {
+	float: none;
+}
+
+.slide.single img {
+	float: none;
+  padding: 0;
+  margin-top: -6px;
+  vertical-align: middle;
+}
+
+.slide img {
+	float: left;
+	padding-left: 100px;
+	max-width: 540px;
+}
+
+.slide > p > img {
+	margin-top: 32px;
+}
+
  .slide.previous,
  .slide:target,
  .slide.next {
