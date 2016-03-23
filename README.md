@@ -15,8 +15,8 @@ Compile css:
 
 View slides:
 
-    Open index.html in the browser
+    Open framework/index.html in the browser
     
 To see presenter notes:
 
-    With index.html open in the browser, press Ctrl+P or Shift+P
+    With framework/index.html open in the browser, press Ctrl+P or Shift+P
